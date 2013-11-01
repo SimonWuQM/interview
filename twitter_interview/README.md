@@ -38,6 +38,8 @@ twitter interview
 
 3. 递归 寻找极大值数列中高度最高的和第二高的墙。则只要这两堵墙之间的墙的高度n小于他们的最小值m，就可以存储m-n的水。然后分别计算这两堵墙两边的储水情况。
 
+solution2的算法就是伯乐在线论坛的博主的算法
+
 --jxzhuge12--
 
 --Zhejiang University--
